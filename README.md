@@ -1,2 +1,3 @@
 # hello-world
 just another repository
+скажи ка дядя ведь не даром...
